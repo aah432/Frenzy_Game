@@ -1,0 +1,9 @@
+Amber Harding
+Bonus
+
+Implemented restart capability.
+Implemented ++ and -- to change speed of enemies.
+
+Blue enemies are spawned every 10 seconds and move in a spiral.
+Purple enemies are spawned every 7 seconds and move in random directions.
+Red enemies are spawned every 12 seconds and jump to a random space on each move.
